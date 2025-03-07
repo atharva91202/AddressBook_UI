@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './add-contact.component.css'
 })
 export class AddContactComponent {
+contact: any;
 
 }
